@@ -1,0 +1,11 @@
+.nav {
+    z-index: 1;
+}
+
+.btn-container {
+    margin-left: 1000px;
+}
+
+.btn {
+    margin-right: 5px;
+}
